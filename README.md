@@ -57,10 +57,12 @@
 
 > - ランダム変数の相関係数: 0.051903052860149165
 > - ![scatter_randam](https://github.com/ProjectBarrele/CommonLit/assets/62383281/1dc7aaa6-f7c2-418c-a724-d84bb7af004f)
+> - 以上の調査により、wording の結果を利用することで、contents のある程度の精度を出せるのではないかと考えた。
 
 
 4. ## モデルの仮決定
 
+> - よりよい要約を出すようなモデルを作成し、そのモデルの出力との差をcontentsの点数とするしようと考えてた。
 > - 要約生成モデル: T5
 ![content](https://github.com/ProjectBarrele/CommonLit/assets/76891064/77c62335-ea63-445f-82cb-5ea283e9bb12)
 
