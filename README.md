@@ -62,8 +62,11 @@
 4. ## モデルの仮決定
 
 > - 要約生成モデル: T5
+![content](https://github.com/ProjectBarrele/CommonLit/assets/76891064/77c62335-ea63-445f-82cb-5ea283e9bb12)
+
 > - 類似度算出モデル: 生成された要約と生徒の要約の類似度を計算
 > - ![correlation_prompt_ext](https://github.com/ProjectBarrele/CommonLit/assets/62383281/db62efb7-57b4-48d6-873e-e33105b1d362)
+![wording](https://github.com/ProjectBarrele/CommonLit/assets/76891064/ed5b8b16-3441-4b06-be32-27a09cb69ef3)
 
 
 ## 自分が頑張った点と自由記述
