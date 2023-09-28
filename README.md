@@ -53,12 +53,18 @@
 3. ## WordingとContentsの相関
 
 > - 相関係数: 0.7513804859701966（wordingとcontents）
-> - ランダム変数の相関係数: 0.051903052860149165
+> - ![scatter](https://github.com/ProjectBarrele/CommonLit/assets/62383281/cb21f905-fffc-40e7-88f7-8be30acd49ba)
+
+> - ランダム変数の相関係数: 0.051903052860149165![Uploading scatter.png…]()
+> - ![scatter_randam](https://github.com/ProjectBarrele/CommonLit/assets/62383281/1dc7aaa6-f7c2-418c-a724-d84bb7af004f)
+
 
 4. ## モデルの仮決定
 
 > - 要約生成モデル: T5
 > - 類似度算出モデル: 生成された要約と生徒の要約の類似度を計算
+> - ![correlation_prompt_ext](https://github.com/ProjectBarrele/CommonLit/assets/62383281/db62efb7-57b4-48d6-873e-e33105b1d362)
+
 
 ## 自分が頑張った点と自由記述
 
