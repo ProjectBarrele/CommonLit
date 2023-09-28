@@ -55,7 +55,7 @@
 > - 相関係数: 0.7513804859701966（wordingとcontents）
 > - ![scatter](https://github.com/ProjectBarrele/CommonLit/assets/62383281/cb21f905-fffc-40e7-88f7-8be30acd49ba)
 
-> - ランダム変数の相関係数: 0.051903052860149165![Uploading scatter.png…]()
+> - ランダム変数の相関係数: 0.051903052860149165
 > - ![scatter_randam](https://github.com/ProjectBarrele/CommonLit/assets/62383281/1dc7aaa6-f7c2-418c-a724-d84bb7af004f)
 
 
